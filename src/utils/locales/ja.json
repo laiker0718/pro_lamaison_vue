@@ -1,0 +1,17 @@
+{
+  "author": "ハチミツとクローバー",
+  "register": "登録する",
+  "dear-guest": "",
+  "mr": "男性",
+  "mrs": "女性",
+  "name": "姓*",
+  "family-name": "名*",
+  "time-slot": "预约时间*",
+  "email": "Eメール*",
+  "sent-code": "コードを送る",
+  "verificationCode": "認証コード",
+  "tel": "手机号码*",
+  "policy-tip": "ブシュロンのプライバシーポリシー",
+  "ok": "確定",
+  "question-of-style": "スタイルに関する質問"
+}

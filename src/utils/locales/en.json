@@ -1,0 +1,17 @@
+{
+  "author": "Clover",
+  "register": "register",
+  "dear-guest": "dear guest",
+  "mr": "mr",
+  "mrs": "mrs",
+  "name": "name",
+  "family-name": "family name",
+  "time-slot": "time slot",
+  "email": "email",
+  "sent-code": "send code",
+  "verificationCode": "verification code",
+  "tel": "",
+  "policy-tip": "the privacy policy, terms and conditions",
+  "ok": "ok",
+  "question-of-style": "question of style"
+}

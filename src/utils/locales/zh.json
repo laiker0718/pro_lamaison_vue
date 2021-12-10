@@ -1,0 +1,17 @@
+{
+  "author": "蜂蜜与四叶草",
+  "register": "注册",
+  "dear-guest": "尊敬的贵宾",
+  "mr": "先生",
+  "mrs": "女士",
+  "name": "姓氏*",
+  "family-name": "名字*",
+  "time-slot": "预约时间*",
+  "email": "",
+  "sent-code": "获取验证码",
+  "verificationCode": "验证码*",
+  "tel": "手机号码*",
+  "policy-tip": "条款与细则",
+  "ok": "确认",
+  "question-of-style": "question of style"
+}
